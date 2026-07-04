@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=180&section=header&text=Samiksha%20Vijayvargiya&fontSize=34&fontColor=ffffff&desc=AI%2FML%20Engineer%20%7C%20Cloud%20%26%20AWS&descSize=16&descAlignY=68" width="100%"/>
+<img src="https://raw.githubusercontent.com/Samikshaavj/Samikshaavj/main/banner.svg" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=460&lines=AI%2FML+Engineer;Cloud+%26+AWS+Developer;Solving+LeetCode+daily" />
 
@@ -47,13 +47,13 @@ An autonomous agent that streamlines job hunting — parsing listings, tailoring
 
 ### Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Samikshaavj&theme=minimal&hide_border=true" width="100%"/>
+<img src="https://ghchart.rshah.org/6366F1/Samikshaavj" width="100%"/>
 
 ### Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Samikshaavj&show_icons=true&theme=transparent&hide_border=true&title_color=6366F1&icon_color=6366F1" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Samikshaavj&show_icons=true&theme=transparent&hide_border=true&title_color=6366F1&icon_color=6366F1" height="165"/>
 <img src="https://leetcard.jacoblin.cool/nURoBTZZuj?theme=dark&font=baloo2&extension=" height="165"/>
 
 </div>
