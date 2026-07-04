@@ -54,7 +54,7 @@ An autonomous agent that streamlines job hunting — parsing listings, tailoring
 <div align="center">
 
 <img src="https://github-stats-extended.vercel.app/api?username=Samikshaavj&show_icons=true&theme=transparent&hide_border=true&title_color=6366F1&icon_color=6366F1" height="165"/>
-<img src="https://leetcard.jacoblin.cool/nURoBTZZuj?theme=dark&font=baloo2&extension=" height="165"/>
+<img src="https://leetcard.jacoblin.cool/Samikshaaavj?theme=dark&font=baloo2&extension=" height="165"/>
 
 </div>
 
