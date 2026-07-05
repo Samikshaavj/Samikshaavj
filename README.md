@@ -36,10 +36,10 @@ AI-powered social media management SaaS — deployed and live across **9 platfor
 </td>
 <td width="50%" valign="top">
 
-**🤖 AI Job Application Agent**
+**🤖 VibeCheck**
 *🚧 In development*
 
-An autonomous agent that streamlines job hunting — parsing listings, tailoring applications, and automating submissions.
+An ai agent that that tests your project at all possible use-cases.
 
 </td>
 </tr>
