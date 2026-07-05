@@ -10,7 +10,7 @@ I build products end-to-end — from AI models to the cloud infrastructure that 
 
 ### What I'm building now
 
-- **AI Job Application Agent** — an autonomous agent that automates job search and application workflows
+- **VibeCheck** — an ai agent that that tests your project at all possible use-cases.
 - **OmniPost** — AI-powered social media management SaaS, live across 9 platforms
 - Solving DSA daily on LeetCode, auto-synced to GitHub
 
